@@ -11,6 +11,11 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BLL", "BLL\BLL.csproj", "{A
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Model", "Model\Model.csproj", "{D2A4B276-29D4-4A95-BDD3-D5293BE6E29B}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "SQL", "SQL", "{9F1C0484-B6A1-42A5-B163-701C01369109}"
+	ProjectSection(SolutionItems) = preProject
+		C:\Users\landy\Desktop\contacts.sql = C:\Users\landy\Desktop\contacts.sql
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
